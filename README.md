@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 # The-Hacking-News
 # The-Hacking-News
+# The-Hacking-Class
