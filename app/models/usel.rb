@@ -1,0 +1,2 @@
+class Usel < ApplicationRecord
+end
